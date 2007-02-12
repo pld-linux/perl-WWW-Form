@@ -6,7 +6,7 @@
 %define		pdir	WWW
 %define		pnam	Form
 Summary:	Object-oriented module for HTML form input validation and display
-Summary(pl):	Obiektowo zorientowany modu≥ do sprawdzania poprawno∂ci i wy∂wietlania formularzy HTML
+Summary(pl.UTF-8):   Obiektowo zorientowany modu≈Ç do sprawdzania poprawno≈õci i wy≈õwietlania formularzy HTML
 Name:		perl-WWW-Form
 Version:	1.16
 Release:	0.1
@@ -24,8 +24,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Object-oriented module for HTML form input validation and display.
 
-%description -l pl
-Obiektowo zorientowany modu≥ do sprawdzania poprawno∂ci i wy∂wietlania
+%description -l pl.UTF-8
+Obiektowo zorientowany modu≈Ç do sprawdzania poprawno≈õci i wy≈õwietlania
 formularzy HTML.
 
 %prep
