@@ -8,13 +8,13 @@
 Summary:	Object-oriented module for HTML form input validation and display
 Summary(pl.UTF-8):	Obiektowo zorientowany moduł do sprawdzania poprawności i wyświetlania formularzy HTML
 Name:		perl-WWW-Form
-Version:	1.17
+Version:	1.18
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/WWW/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	a96ebfc8b2b5890ae758377fbc53399f
+# Source0-md5:	b3de0bb7571a73d3316536b947077ede
 URL:		http://search.cpan.org/dist/WWW-Form/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
