@@ -8,7 +8,7 @@ Summary:	Object-oriented module for HTML form input validation and display
 Summary(pl.UTF-8):	Obiektowo zorientowany moduł do sprawdzania poprawności i wyświetlania formularzy HTML
 Name:		perl-WWW-Form
 Version:	1.18
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
